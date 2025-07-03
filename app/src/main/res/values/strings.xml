@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KronoPago</string>
+    <string name="deudas_titulo">Deudas</string>
+    <string name="deudas_vencidas">Vencidas</string>
+    <string name="deudas_por_vencer">Por vencer</string>
+    <string name="deudas_a_tiempo">A tiempo</string>
+    <string name="deudas_pagadas">Pagadas</string>
+    <string name="deudas_no_registradas">No hay deudas registradas</string>
+</resources>
